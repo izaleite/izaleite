@@ -13,7 +13,7 @@ const izaleite = {
   challenge: "I am doing the #100DaysOfCode."
 }
 ```
-<a href="https://app.daily.dev/izaleite"><img src="https://api.daily.dev/devcards/61edb2ec922a4213a1a7ec192996afa6.png?r=ahe" width="256" align="right" alt="Izabella Leite's Dev Card"/></a>
+<a href="https://app.daily.dev/izaleite"><img src="https://github.com/izaleite/izaleite/blob/main/devcard.svg" width="256" align="right" alt="Izabella Leite's Dev Card"/></a>
 
 <div>
   <a href="https://github.com/izaleite">
