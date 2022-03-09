@@ -10,7 +10,7 @@ const izaleite = {
   pronouns: "she" | "her",
   askMeAbout: ["web dev", "tech", "tech curious", "bjj"],
   code: ["Javascript", "HTML", "CSS", "Java"],
-  challenge: "I am doing the #100DaysOfCode."
+  challenge: "I am doing the frontendmentor, freecodecamp"
 }
 ```
 <a href="https://app.daily.dev/izaleite"><img src="https://github.com/izaleite/izaleite/blob/main/devcard.svg" width="256" align="right" alt="Izabella Leite's Dev Card"/></a>
