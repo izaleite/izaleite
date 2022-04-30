@@ -18,7 +18,8 @@ const izaleite = {
 <div>
   <a href="https://github.com/izaleite">
   <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=izaleite&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaleite&layout=compact&langs_count=7&theme=aura"/>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izaleite&langs_count=8&theme=aura)](https://github.com/izaleite/github-readme-stats) 
 </div>
   
   <div style="display: inline_block"><br>
@@ -26,6 +27,7 @@ const izaleite = {
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+   
   
   <h2 align="left">:heart: Let's get connected:</h2>
 
