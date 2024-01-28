@@ -8,17 +8,17 @@
 ```javascript
 const izaleite = {
   pronouns: "she" | "her",
-  askMeAbout: ["web dev", "tech", "tech curious", "bjj"],
-  code: ["Javascript", "HTML", "CSS", "Java"],
+  askMeAbout: ["web dev", "tech", "tech curious", "bjj", "judô"],
+  code: ["Javascript", "HTML", "CSS"],
   challenge: "I am doing the frontendmentor, freecodecamp"
 }
 ```
-<a href="https://app.daily.dev/izaleite"><img src="https://github.com/izaleite/izaleite/blob/main/devcard.svg" width="256" align="right" alt="Izabella Leite's Dev Card"/></a>
+
 
 <div>
   <a href="https://github.com/izaleite">
-  <img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api?username=izaleite&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
- 
+
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izaleite&langs_count=8&theme=aura)](https://github.com/izaleite/github-readme-stats) 
 </div>
   
